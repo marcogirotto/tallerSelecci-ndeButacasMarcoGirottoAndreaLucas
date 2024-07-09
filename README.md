@@ -1,3 +1,4 @@
 # tallerSelecci-ndeButacasMarcoGirottoAndreaLucas
 
-descargar el archivo html, y ejecutar la pagina.
+descargar el archivo .rar.
+descomprimir y abrir el html.
